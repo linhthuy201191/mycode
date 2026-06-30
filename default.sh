@@ -17,7 +17,7 @@ PIP_PACKAGES=(
 
 NODES=(
     # "https://github.com/cubiq/ComfyUI_essentials"
-    # "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
     # "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
     # "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     # "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
